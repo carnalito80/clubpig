@@ -1,0 +1,11 @@
+{
+  "meta": {
+    "title": "Clubpigalle",
+    "titleTemplate": "%s",
+    "description": "Din goto vad gäller clubscenen i Stockholm och övriga världen",
+    "siteUrl": "https://clubpigalle.se",
+    "image": "/assets/pigalle.jpg",
+    "twitterUsername": "@leosexy"
+  },
+  "ga": "UA-XXXXXXXXX-X"
+}
