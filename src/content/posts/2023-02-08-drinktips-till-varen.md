@@ -1,6 +1,6 @@
 ---
 template: blog-post
-title: God drink
+title: Drinktips till våren
 slug: /drinktips-till-varen
 date: 2023-02-08 14:25
 description: Snart är våren här och med det förhoppningsvis en hel del sol och värme också. Här följer några drinktips som man kan njuta av i vårsolen. 
