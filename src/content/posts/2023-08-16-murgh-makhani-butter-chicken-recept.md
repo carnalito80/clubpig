@@ -47,6 +47,8 @@ Häll i lite vatten så det täcker botten på pannan och tillsätt korianderpul
 Tillsätt tomater, grön chilli och vatten så det precis täcker. Koka upp.
 När tomaterna har kokat sönder, häll över såsen i en blender och mixa blandningen slät. Hit kan göras i förväg.  
 
+![Butter Chicken Recept: På bilden har tomaterna nästan kokat sönder, med andra ord strax dags att hälla över rubbet i en blender.](/assets/butter-chicken-in-progress.jpg)
+
 Smält smöret i pannan. När smöret är smält, häll i såsen och blanda runt. Låt koka tills smöret har kokat in i såsen. Kan behövas lite mer vatten här om såsen är för tjock. Såsen skall vara “silky”.
 Smaka av med salt, socker och Garam masala. Justera styrkan nedåt med hjälp av grädde. Koka ett par minuter.  
 
