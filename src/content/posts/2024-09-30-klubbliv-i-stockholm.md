@@ -15,7 +15,7 @@ Den 5 oktober kan du dansa till NUET på Berns. Sist dom var där var Berns full
 
 30 november är det dax för Front242 som är en Belgisk grupp som gör elektronisk dansmusik som du kan dansa till hela natten lång!
 
-27 decenber blir det riktig fest med norska <a href="https://www.soppgirobygget.com//" target="_blank">Soppgirobygget</a>
+27 december blir det riktig fest med norska <a href="https://www.soppgirobygget.com//" target="_blank">Soppgirobygget</a>
 
 Jag lovar att du kommer känna dig gladare och på mycket piggare humör efter ett par skojiga utekvällar med dans, skratt och vänner. Varför inte boka biljetter till något utav dessa event eller bara gå dit 
 och dansa en helt vanlig kväll. 
