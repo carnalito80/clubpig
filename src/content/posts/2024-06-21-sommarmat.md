@@ -24,4 +24,4 @@ Fler tips på mat att ta med är t ex färdigstekt halloumiost. Man kan steka os
 
 Till dom små är det enkelt att koka lite makaroner, steka köttbullar. Lägg ner alltig i en burk, skär köttbullarna i halvor, ha på ketchup om det behövs. 
 
-Idag på midsommar blir lunchmaten också kall förutom lite kokt potatis. Till det blir det lite sill av olika slag, rökt lax, ägghalvor med en klick skagenröra och glass med jordgubbar till efterätt. Smaskens! 
+Idag på midsommar blir lunchmaten också kall förutom lite kokt potatis. Till det blir det lite sill av olika slag, rökt lax, ägghalvor med en klick skagenröra och glass med jordgubbar till efterätt. Smaskens! 	
