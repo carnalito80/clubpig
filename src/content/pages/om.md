@@ -11,6 +11,6 @@ Club Pigalle öppnade första gången i slutet av november 2007. Klubben blev sn
 
 Club Pigalle
 Järntorgsgatan 5
-111 29 Stockholm
+172 36 Sundbyberg
 
 Öppettider: ons-lör 18.00 - 03.00 sön 13.00 - 23.00 (Brunch)

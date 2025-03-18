@@ -9,7 +9,7 @@ featuredImage: /assets/butter_chicken.jpg
 ### Murgh Makhani (Butter chicken)
 ### Butter Chicken
 
-Nu är det dags för ett mat recept, denna gång indiskt! Av en av mina indiska vänner har jag fått det här receptet på den berömda Butter Chicken, Murgh Makhani. Den här rätten är en av mina indienfavoriter och det här receptet är exakt som de flesta restauranger gör den. Följer man receptet rakt av blir det Indienstark, vilket i den här maträtten inte är jättestarkt.  
+Nu är det dags för ett mat recept, denna gång indiskt! Av en av mina indiska vänner har jag fått det här receptet på den berömda Butter Chicken, Murgh Makhani. Den här rätten är en av mina indienfavoriter och det här receptet är exakt som de flesta restauranger gör den. Följer man receptet blir det hyfsat starkt, men inte jättestarkt, och ingen kommer att avlida :)  
 
 #### Kycklingen
 
