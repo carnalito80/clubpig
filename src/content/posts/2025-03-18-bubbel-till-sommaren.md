@@ -22,4 +22,4 @@ För den som vill ha alkoholfritt alternativ på bubbel skulle jag rekommendera 
 Gör så här:
 - Pressa citronerna och häll dom i en tillbringare tillsammans med socker och det varma vattnet. Rör till sockret har löst upp sig. 
 - Tillsätt kallt vatten efter smak och ställ i kylen. 
-- Kan serveras med lite is i glaset. 
+- Kan serveras med lite is i glaset.
