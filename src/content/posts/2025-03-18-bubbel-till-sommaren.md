@@ -4,7 +4,7 @@ title: Bubbel till sommaren
 slug: /bubbel-till-sommaren
 date: 2025-03-18 10:45
 description: Champagne, cava, bubbel, citron, sommar
-featuredImage: /assets/bubbel.webp
+featuredImage: ./bubbel.webp
 ---
 Våren är äntligen här även om vädret kan svajja från dag till dag men det är i alla fall mars och om två veckor ska klockan ställas om igen. Jag längtar till sommaren, vill ha ljus, värme och mer fågelkvitter! Det är dock härligt att blommorna börjar slå ut och det är lite ljusare på morgonen. Idag tänkte jag tipsa om lite bubbel till sommaren, för bubbel av olika slag går alltid att dricka på somamren, så är det! Vill man känna sig nyttig när man dricker det slänger man bara i en jordgubbe eller några andra bär.
 

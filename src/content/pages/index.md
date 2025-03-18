@@ -3,7 +3,7 @@ template: index-page
 slug: /
 title: clubpigalle.se
 tagline: Din goto vad gäller clubscenen i Stockholm och övriga världen
-featuredImage: /assets/clubpigalle.jpg
+featuredImage: ./clubpigalle.jpg
 cta:
   ctaText: Läs mer
   ctaLink: /om

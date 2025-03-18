@@ -4,7 +4,7 @@ title: Klubbliv i Stockholm
 slug: /klubbliv-i-stockholm
 date: 2024-09-30 09:39
 description: klubb, stockholm, dans
-featuredImage: /assets/klubb.webp
+featuredImage: ./klubb.webp
 ---
 Nu har hösten anlänt, vädret blivit kyligare och mörkret är på väg. För att inte hamna i någon typ av höstdepp så ut och dansa och ha roligt! I Stockholm finns mängder av trevliga och roliga klubbar 
 men en utav de äldsta och även bästa tycker vi är Berns. Berns har roliga event, bra Asien inspirerad mat om man vill äta där, goda drinkar och schysst dansgolv så här kan inget gå fel. Kommer man långväga ifrån kan man ta in på Berns hotell en natt. Dessutom är det vackra lokaler man vistas i och ett väldigt centralt och bra läge. 

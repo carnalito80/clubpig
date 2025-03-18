@@ -4,7 +4,7 @@ title: Gin Drinkar
 slug: /gin-drinkar
 date: 2024-01-30 11:21
 description: Ginets historia samt två klassiska gindrinkar
-featuredImage: /assets/drink.webp
+featuredImage: ./drink.webp
 ---
 Gin är en gammal dryck som började tillverkas i Belgien redan på 1300-talet då i medicinskt syfte. På 1600-talet blev gin väldigt populärt i England och på 1800-talet började man öppna ginpalats och ginen blev torrare och den började även smaksättas. 
 Det finns oändligt många drinkar med gin som Dry Martini, Tom Collins, Gin Fizz och Gröna hissen. Den vanligaste smaksättningen av gin är kryddor som enbär, citrus, koriander men i takt med att det har blivit så populärt att dricka smaksätts den nu även med t ex gurka, humle, rabarber, rosenblad. En annan trend är att färga ginen rosa. Nedan kommer två recept på klassiska gindrinkar. Tänk på att använda riktigt god gin till drinkarna.

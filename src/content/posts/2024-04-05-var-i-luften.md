@@ -4,7 +4,7 @@ title: Vår i luften
 slug: /var-i-luften
 date: 2024-04-05 13:20
 description: Vårtecken, sangria, vårstädning
-featuredImage: /assets/sangria.webp
+featuredImage: ./sangria.webp
 ---
 Nu är våren snart här och restaurangerna kommer börja öppna upp sina uteserveringar snart. Det ska bli härligt att sitta med en iskall öl i solskenet på en servering igen!
 

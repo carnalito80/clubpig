@@ -4,12 +4,12 @@ title: Murgh Makhani - Butter chicken - Recept
 slug: /murgh-makhani-butter-chicken-recept
 date: 2023-08-16 11:25
 description: Detta är receptet på den klassiska rätten Murgh Makhani, eller Butter chicken som den kanske är mer känd som. Följer man receptet rakt av blir det Indienstark, vilket i den här maträtten inte är jättestarkt.
-featuredImage: /assets/butter_chicken.jpg
+featuredImage: ./butter_chicken.jpg
 ---
 ### Murgh Makhani (Butter chicken)
 ### Butter Chicken
 
-Nu är det dags för ett mat recept, denna gång indiskt! Av en av mina indiska vänner har jag fått det här receptet på den berömda Butter Chicken, Murgh Makhani. Den här rätten är en av mina indienfavoriter och det här receptet är exakt som de flesta restauranger gör den. Följer man receptet blir det hyfsat starkt, men inte jättestarkt, och ingen kommer att avlida :)  
+Nu är det dags för ett mat recept, denna gång indiskt! Jag har kommit över receptet på den berömda Butter Chicken, Murgh Makhani. Den här rätten är en av mina indienfavoriter och det här receptet är exakt som de flesta restauranger gör den. Följer man receptet blir det hyfsat starkt, men inte jättestarkt, och ingen kommer att avlida :)  
 
 #### Kycklingen
 

@@ -4,7 +4,7 @@ title: Flytta utomlands
 slug: /flytta-utomlands
 date: 2024-10-29 11:08
 description: Utlandsboende, sol, spanien, nie-nummer, körkort
-featuredImage: /assets/palmer.webp
+featuredImage: ./palmer.webp
 ---
 Jag har under dom senaste åren funderat en hel del på att flytta till någon varmare och soligare plats. Tanken slår mig speciellt på hösten, ungefär i den här tiden på året när man dragit tillbaka klockan en timme och det blir mörkare och mörkare. Det vore underbart att bo i t ex Thailand, Dubai eller liknande. I Europa är det nog södra Spanien som står högst upp på listan och det vore ju enklare att flytta dit än en flytt till Asien. Det är nämare till Sverige så att man kan åka och hälsa på familj, släkt och vänner och dom kan enkelt komma och hälsa på när dom vill. 
 

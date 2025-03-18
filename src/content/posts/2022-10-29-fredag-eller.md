@@ -4,7 +4,7 @@ title: Fredag Eller?
 slug: /fredag-eller
 date: 2022-09-29 14:55
 description: Vaknar och måste tänka i minst 2 minuter vilken dag det kan tänkas vara….Jo just det..vankas dubbelJobb…och flytthjälp
-featuredImage: /assets/fredag.jpg
+featuredImage: ./fredag.jpg
 ---
  Vaknar och måste tänka i minst 2 minuter vilken dag det kan tänkas vara….Jo just det..vankas dubbelJobb…
 eller trippel egentligen…tänkte inte säga vart,med vem osv…NOP! Hålla käften fungerar bäst…Men djar inatt på *Secret Garden* igen…och är inte på Underbara Bar imorgon Lördag..är på Tank och yrar runt ! till 05..hahahahhahahah..känner mig trött redan nu…får bli Celsius i 180!! 

@@ -4,7 +4,7 @@ title: Sommarmat
 slug: /sommarmat
 date: 2024-06-21 10:45
 description: Sommar, mat, enkelt
-featuredImage: /assets/sommarmat.webp
+featuredImage: ./sommarmat.webp
 ---
 Idag är det midsommarafton och sommaren är äntligen här på riktigt! I och med sommaren och semestrar blir det för de flesta familjer mer fritidsaktiviter ute och kanske en hel del turer till någon strand. Jag tänkte tipsa om lite bra sommarmat man kan ta med sig till t ex stranden så att man slipper ta med mackor varje gång. Enkla måltider soom man kan förbereda dagen innan och blir mätt på.
 

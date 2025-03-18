@@ -4,7 +4,7 @@ title: Bakat hela..
 slug: /bakat-hela
 date: 2007-12-13 12:55
 description: Morgonens lussebullar till er alla ikväll,NOT! känns smuligt,kladdigt och läskigt+om degen inte är riktigt jäst (ugha)
-featuredImage: /assets/lussebulle.jpg
+featuredImage: ./lussebulle.jpg
 ---
  morgonen lussebullar till er alla ikväll,NOT! känns smuligt,kladdigt och läskigt+om degen inte är riktigt jäst (ugha) kanske billiga från ICA med nästan ingen saffran.öhhhhhhhhhhssshkcsghjj  
 

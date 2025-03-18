@@ -4,7 +4,7 @@ title: Secret Garden
 slug: /secret-garden
 date:  2016-03-09 16:00
 description: u har jag sagt upp mig från Underbara bar, känns skönt…verkar bli strul med betalningarna= sant! därför BYE BYE..kommer vara på Secret Garden. 
-featuredImage: /assets/secret-garden.jpg
+featuredImage: ./secret-garden.jpg
 ---
 
 Nu har jag sagt upp mig från Underbara bar, känns skönt…verkar bli strul med betalningarna= sant! därför BYE BYE..kommer vara på ***Secret Garden*** fortsättningsvis och Tank emellanåt…dragit in tusentals kronor till Underbara bar hitills..just saying..brukar aldrig bli sur,men är det nu…lagt ned jobb,timmar och engagemang..NOP! Bye bye…  
