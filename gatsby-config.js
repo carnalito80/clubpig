@@ -74,17 +74,6 @@ module.exports = {
       },
     },
     `gatsby-plugin-advanced-sitemap`,
-    {
-      resolve: `gatsby-plugin-manifest`,
-      options: {
-        name: `Club Pigalle`,
-        short_name: `Pigalle`,
-        start_url: `/`,
-        background_color: `#f7f0eb`,
-        theme_color: `#a2466c`,
-        display: `standalone`,
-      },
-    },
     'gatsby-plugin-offline',
   ],
 }
