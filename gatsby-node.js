@@ -35,12 +35,14 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
   // Create markdown pages
   const posts = result.data.allMarkdownRemark.edges
   let blogPostsCount = 0
-
+  console.log('number of posts:' + posts.length)
+  console.log(posts)
   posts.forEach((post, index) => {
+    console.log(post)
     const id = post.node.id
     const previous = index === posts.length - 1 ? null : posts[index + 1].node
     const next = index === 0 ? null : posts[index - 1].node
-
+    
     createPage({
       path: post.node.frontmatter.slug,
       component: path.resolve(
