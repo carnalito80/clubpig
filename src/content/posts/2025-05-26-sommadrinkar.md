@@ -37,5 +37,5 @@ featuredImage: ./aperol.webp
 - 1 flaska mousserande vin (gärna prosecco)
 
 - Fördela persikopurén i glasen.
-- Fyll upp med moussernade vin, rör om och njut!
+- Fyll upp med moussernade vin, rör om och njut!!
 
