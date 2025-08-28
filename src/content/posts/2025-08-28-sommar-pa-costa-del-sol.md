@@ -6,7 +6,8 @@ date: 2025-08-28 10:30
 description: spanien, costa del sol, sommar, strand, fest
 featuredImage: ./laconcha.webp
 ---
-Jag har tillbringat en del utav sommaren i Spanien och på Costa del Sol och det har varit underbart. En vän till mig har köpt en lägenhet i Marbella med hjälp av <a href="https://platsisolen.se/"target="_blank">platsisolen</a>och bjöd in mig för att hälsa på 2 veckor och vi har verkligen haft det helt underbart och en näst intill gratis semester när det kom till boende för min del! 
+Jag har tillbringat en del utav sommaren i Spanien och på Costa del Sol och det har varit underbart. En vän till mig har köpt en lägenhet i Marbella med hjälp av 
+<a href="https://platsisolen.se"target="_blank">platsisolen</a> och bjöd in mig för att hälsa på 2 veckor och vi har verkligen haft det helt underbart och en näst intill gratis semester när det kom till boende för min del! 
 
 Det har varit en rätt så aktiv semester även om vi även har varit ute på fest men vi har börjat de flesta morgnar med en promenad i bergen i skuggan av träden. Sen har vi självklart varit på lite 
 olika stränder och beach clubs som Nikki Beach, Ocean Club och Nosso. Det är dyrt men hemskt kul, festligt och lyxigt. Vi var på en dagsutflykt ner till Atlanten och Tarifa och wow vilka stränder 
