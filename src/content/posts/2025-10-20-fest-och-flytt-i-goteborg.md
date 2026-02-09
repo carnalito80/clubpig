@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: Fest och flytt i Göteborg
-slug: /fes-och-flytt-i-goteborg
+slug: /fest-och-flytt-i-goteborg
 date: 2025-10-20 19:51
 description: göteborg, fest, party, flytt, flyttfirma
 featuredImage: ./goteborg.webp
